@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b3be547c.css",
+    "main.js": "/static/js/main.61feedc2.js",
+    "static/js/787.96d8f390.chunk.js": "/static/js/787.96d8f390.chunk.js",
+    "static/media/tracktrades_logo.svg": "/static/media/tracktrades_logo.ad3c5e8b3c2a246ea8ba4bb1d44a4d50.svg",
+    "index.html": "/index.html",
+    "main.b3be547c.css.map": "/static/css/main.b3be547c.css.map",
+    "main.61feedc2.js.map": "/static/js/main.61feedc2.js.map",
+    "787.96d8f390.chunk.js.map": "/static/js/787.96d8f390.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3be547c.css",
+    "static/js/main.61feedc2.js"
+  ]
+}
